@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm self-taught QA enthusiast. Currently learning Python web scraping basics.
+I'm self-taught QA enthusiast.
 
 <!--
 **waitmon/waitmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
